@@ -1,6 +1,6 @@
 [![CodeQL](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml)
 
-[![CodeQL](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml)
+[![Jekyll site CI](https://github.com/granzginz/MyFirstAngular/actions/workflows/jekyll.yml/badge.svg)](https://github.com/granzginz/MyFirstAngular/actions/workflows/jekyll.yml)
 
 # Angular12
 
