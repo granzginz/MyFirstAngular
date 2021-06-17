@@ -1,3 +1,7 @@
+[![CodeQL](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml)
+
+[![CodeQL](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/granzginz/MyFirstAngular/actions/workflows/codeql-analysis.yml)
+
 # Angular12
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
