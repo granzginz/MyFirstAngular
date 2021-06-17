@@ -23,11 +23,7 @@ on:
 jobs:
   analyze:
     name: Analyze
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        node_version: ['8', '10', '12']
-        os: [ubuntu-latest, windows-latest, macOS-latest]
+    runs-on: [windows-latest]
     permissions:
       actions: read
       contents: read
